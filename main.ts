@@ -1,7 +1,7 @@
 // main.ts
 // MakeCode extension for Bits4Bots Robot Kit
 
-//% color=#3af0e7 icon="\uf544" block="Bits4Bots Robot Kit"
+//% color=#3af0e7 icon="\uf085" block="Bits4Bots Robot Kit"
 namespace Bits4BotsRobotKit {
 
     // ----------------- DC MOTOR -----------------
@@ -82,3 +82,4 @@ namespace Bits4BotsRobotKit {
         return pins.digitalReadPin(pin) == 1
     }
 }
+
