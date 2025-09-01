@@ -9,7 +9,9 @@ This MakeCode extension supports the following components in **Bits4Bots Robotic
 - Temperature sensor  
 - Buzzers  
 - LEDs  
-- Latching Hall Effect Sensor  
+- Latching Hall Effect Sensor
+  
+<img width="1080" height="1080" alt="cover" src="https://github.com/user-attachments/assets/8b86cfd8-fd4a-40b8-aa74-04110b9e99b0" />
 
 All components are **configurable by pin** so students can wire freely.
 
