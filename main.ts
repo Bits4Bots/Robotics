@@ -1,8 +1,8 @@
 // main.ts
 // MakeCode extension for My Robotics Kit
 
-//% color=#0fbc11 icon="\uf135" block="MyRobotKit"
-namespace Bits4Botsrobotkit {
+//% color=#34ebcc1 icon="\uf544" block="Bits4Bots RobotKit"
+namespace robotkit {
 
     // ----------------- DC MOTOR -----------------
     export enum MotorDirection {
@@ -82,3 +82,4 @@ namespace Bits4Botsrobotkit {
         return pins.digitalReadPin(pin) == 1
     }
 }
+
