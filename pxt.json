@@ -1,0 +1,14 @@
+{
+  "name": "pxt-myrobotkit",
+  "description": "MakeCode extension for Bits4Bots Robotics Kit (DC motors, servos, ultrasonic, water level, temperature, buzzer, LED, hall effect).",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "public": true
+}
