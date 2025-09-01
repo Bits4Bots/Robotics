@@ -43,7 +43,6 @@ Bits4BotsRobotKit.setMotor(AnalogPin.P0, MotorDirection.Forward, 200)
 basic.pause(1000)
 Bits4BotsRobotKit.setMotor(AnalogPin.P0, MotorDirection.Backward, 200)
 
-
 ### ⚙️ Servo
 ```blocks
 Bits4BotsRobotKit.setServo(AnalogPin.P1, 90)
