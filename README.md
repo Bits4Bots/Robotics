@@ -1,4 +1,4 @@
-# Bits4Bots Robotics Kit MakeCode Extension
+# Bits4Bots Robotics Kit 
 
 This MakeCode extension supports the following components in **Bits4Bots Robotics Kit**:
 
