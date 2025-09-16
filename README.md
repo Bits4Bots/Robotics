@@ -11,7 +11,8 @@ This MakeCode extension supports the following components in **Bits4Bots Robotic
 - LEDs  
 - Latching Hall Effect Sensor
   
-<img width="250" height="250" alt="cover" src="https://github.com/user-attachments/assets/8b86cfd8-fd4a-40b8-aa74-04110b9e99b0" />
+  <img width="540" height="540" alt="Kitty Cruiser - 1" src="https://github.com/user-attachments/assets/d0b48598-d80d-429c-a089-ba1186868fcd" />
+
 
 All components are **configurable by pin** so students can wire freely.
 
